@@ -65,13 +65,16 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihzee&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&langs_count=10&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihzee&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihzee&show_icons=true&locale=en&theme=radical&layout=compact" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihzee&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihzee&theme=radical&layout=compact" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FatihZee&theme=radical" alt="Fatih Trophy"/>
 </p>
 
 ---
