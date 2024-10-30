@@ -25,6 +25,7 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ---
 
 ### 🔗 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/fatih-fikry-oktavianto" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -33,10 +34,10 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viananto1234@gmail.com&su=Halo,%20Fatih%20Fikry%20Oktavianto&body=Hari%20yang%20cerah%20untuk%20mengoding,%20YEAYYY!" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
 
 ---
 
