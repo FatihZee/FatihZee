@@ -32,9 +32,10 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
   <a href="https://instagram.com/trustedby_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:viananto1234@gmail.com?subject=Halo,%20Fatih%20Fikry%20Oktavianto&body=Hari%20yang%20cerah%20untuk%20mengoding,%20YEAYYY!">
-   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viananto1234@gmail.com&su=Halo,%20Fatih%20Fikry%20Oktavianto&body=Hari%20yang%20cerah%20untuk%20mengoding,%20YEAYYY!" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </p>
 
 ---
