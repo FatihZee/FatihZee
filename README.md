@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=fatihzee&label=Profile%20views&color=0e75b6&style=flat" alt="fatihzee" />
 </p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/w5cBfjbwBakAAAAd/rose-apt.gif" alt="Backend Development"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
