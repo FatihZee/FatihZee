@@ -19,7 +19,7 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 
 - 🌱 I’m currently learning **Backend Development, Laravel, Node.js, Express.js, PHP, Databases, etc**
 - 💬 Ask me about **Backend Development**
-- 📖 Currently studying 5 languages **( JavaScript, PHP , Python , Java , Golang )**
+- 💪 노력하는 자는 성공한다 - مَنْ جَدَّ وَجَدَ - Siapa yang bersungguh-sungguh, akan **berhasil**.
 - ⚡ Fun fact: **I'm eager to collaborate and constantly driven by a love for all things coding.**
 
 ---
