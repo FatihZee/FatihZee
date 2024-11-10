@@ -24,6 +24,27 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 
 ---
 
+<div align="center">
+
+## 🌸 Filosofi Hidup dalam Bahasa Jawa 🌸
+
+> _"Urip iku mung mampir ngombe, sak mestine aja nganti keblinger."_  
+> _(Hidup ini hanya singgah sebentar, jangan sampai tersesat dalam kesementaraan)_
+
+---
+
+> _"Ojo rumongso biso, nanging biso rumongso."_  
+> _(Jangan merasa bisa, tetapi cobalah untuk bisa merasakan)_  
+
+---
+
+> _"Sing sapa nandur, bakal ngunduh."_  
+> _(Siapa yang menanam, akan menuai hasilnya)_
+
+---
+
+</div>
+
 ### 🔗 Connect with Me
 
 <p align="left">
