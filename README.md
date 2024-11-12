@@ -42,40 +42,35 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ---
 
 ### 🛠️ Languages and Tools
-
-<div style="display: inline_block">
-    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-    <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Golang" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-    <img align="center" alt="Nginx" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-</div>
+  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&langs_count=10&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihzee&show_icons=true&locale=en&theme=radical&layout=compact" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihzee&theme=radical&layout=compact" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FatihZee&theme=radical" alt="Fatih Trophy"/>
-</p>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=FatihZee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+---
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
@@ -128,26 +123,3 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 - **Basic React (Gold)** by Skilvul: Core concepts in React for building UIs.
 - **Basic Web Programming** by Dicoding: Foundations in web development.
 - **Front-End Web Development** by Dicoding: Competence in front-end development.
-
----
-
-<div align="center">
-
-## 🌸 Filosofi Hidup dalam Bahasa Jawa 🌸
-
-> _"Urip iku mung mampir ngombe, sak mestine aja nganti keblinger."_  
-> _(Hidup ini hanya singgah sebentar, jangan sampai tersesat dalam kesementaraan)_
-
----
-
-> _"Ojo rumongso biso, nanging biso rumongso."_  
-> _(Jangan merasa bisa, tetapi cobalah untuk bisa merasakan)_  
-
----
-
-> _"Sing sapa nandur, bakal ngunduh."_  
-> _(Siapa yang menanam, akan menuai hasilnya)_
-
----
-
-</div>
