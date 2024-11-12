@@ -4,8 +4,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatihzee&label=Profile%20views&color=0e75b6&style=flat" alt="fatihzee" />
+  <img src="https://komarev.com/ghpvc/?username=fatihzee&label=Profile%20views&color=FF69B4&style=for-the-badge&labelColor=00008B" alt="fatihzee" />
 </p>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/w5cBfjbwBakAAAAd/rose-apt.gif" alt="Backend Development"/>
@@ -51,9 +52,9 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=FatihZee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=FatihZee&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
@@ -61,7 +62,7 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ### 🔝 Top Contributed Repo
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 </div>
 
 ---
