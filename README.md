@@ -75,6 +75,11 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 
 ---
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FatihZee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ### 📜 Certifications
 
 <p align="left">
