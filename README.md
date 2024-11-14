@@ -18,7 +18,7 @@
 
 I am a former Backend Developer at the ESD Laboratory, specializing in API development, database management, and backend integration. With certifications from Dicoding Indonesia, Gamelab, and Skilvul, I have successfully completed several backend projects and collaborated with cross-functional teams to deliver efficient solutions. I am now seeking new opportunities as a Backend Developer, open to roles in any organization where I can leverage my expertise and passion for continuous learning, particularly in areas like Web3 Development and IT consulting, to make a positive impact.
 
-- 🌱 I’m currently learning **Backend Development, Laravel, Node.js, Express.js, PHP, Databases, etc**
+- 🌱 I’m currently learning **Backend Development, Go Language, Laravel, Node.js, Express.js, PHP, Databases, etc**
 - 💬 Ask me about **Backend Development**
 - 💪 노력하는 자는 성공한다 - مَنْ جَدَّ وَجَدَ - Siapa yang bersungguh-sungguh, akan **berhasil**.
 - ⚡ Fun fact: **I'm eager to collaborate and constantly driven by a love for all things coding.**
