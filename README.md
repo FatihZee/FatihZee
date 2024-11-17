@@ -116,6 +116,9 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
   <a href="https://www.dicoding.com/certificates/0LZ065YO0Z65" target="_blank">
     <img src="https://img.shields.io/badge/Dicoding-Front%20End%20Web%20Development-orange?style=flat-square&logo=html5&logoColor=white" alt="Front End Web Development Dicoding"/>
   </a>
+  <a href="https://www.dicoding.com/certificates/4EXG7O3E1PRL" target="_blank">
+    <img src="https://img.shields.io/badge/Dicoding-Belajar%20Membuat%20Aplikasi%20Web%20dengan%20React-blue?style=flat-square&logo=react&logoColor=white" alt="Belajar Membuat Aplikasi Web dengan React Dicoding"/>
+  </a>
 </p>
 
 - **GO: PEMROGRAMAN DASAR** by Gamelab Indonesia: Essential Go programming skills.
@@ -129,3 +132,4 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 - **Basic React (Gold)** by Skilvul: Core concepts in React for building UIs.
 - **Basic Web Programming** by Dicoding: Foundations in web development.
 - **Front-End Web Development** by Dicoding: Competence in front-end development.
+- **Belajar Membuat Aplikasi Web dengan React** by Dicoding: Competence in building web applications using React.
