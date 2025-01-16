@@ -67,6 +67,12 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FatihZee&theme=github-compact&radius=16" height="auto" alt="by FatihZee"/>
+</div>
+
+---
+
 ### ✍️ Random Dev Quote
 <div align="center">
   
