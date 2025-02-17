@@ -56,11 +56,11 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatihZee&theme=ambient_gradient&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FatihZee&theme=radical&hide_border=true&show_icons=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=ambient_gradient&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=radical&hide_border=true&layout=compact&langs_count=10" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=ambient_gradient" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=radical&hide_border=true&" />
 </div>
 
 ---
@@ -68,7 +68,7 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ### 🔝 Top Contributed Repo
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 </div>
 
 <div align="center">
