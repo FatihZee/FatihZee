@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fatih Fikry Oktavianto</h1>
-<h3 align="center">
-  A Bachelor's student in Information Systems at Telkom University, specializing in Backend and Frontend Development.
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Fatih%20Fikry%20Oktavianto&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web%20Developer%20and%20AI%20Enthusiast&descSize=30&descAlignY=85&section=header" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatihzee&label=Profile%20views&color=FF69B4&style=for-the-badge&labelColor=00008B" alt="fatihzee" />
+  <img src="https://komarev.com/ghpvc/?username=fatihzee&label=Profile%20views&color=61DAFB&style=for-the-badge&labelColor=20232A" alt="fatihzee" />
 </p>
 
 
@@ -56,11 +53,11 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatihZee&theme=radical&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FatihZee&theme=react&hide_border=true&show_icons=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=radical&hide_border=true&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihZee&theme=react&hide_border=true&layout=compact&langs_count=10" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=radical&hide_border=true&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihZee&theme=react&hide_border=true" />
 </div>
 
 ---
@@ -68,11 +65,11 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 ### 🔝 Top Contributed Repo
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FatihZee&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FatihZee&theme=react-dark&area=true&hide_border=true" alt="by FatihZee"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FatihZee&theme=react&area=true&hide_border=true" alt="by FatihZee"/>
 </div>
 
 ---
@@ -87,3 +84,5 @@ I am a former Backend Developer at the ESD Laboratory, specializing in API devel
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FatihZee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
