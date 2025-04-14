@@ -7,10 +7,10 @@
 
 <p align="center">
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://media1.tenor.com/m/w5cBfjbwBakAAAAd/rose-apt.gif" alt="Backend Development" height="200"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJyc3VscW5vaDFicXl0YzRjZWN3ZHBtaHZxcG9kYW1uM2ZnZnI2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSz0R4vZIKMJWg9oko/giphy.gif" alt="Coding Enthusiasm" height="200"/>
   </span>
   <span style="display: inline-block; margin-left: 10px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJyc3VscW5vaDFicXl0YzRjZWN3ZHBtaHZxcG9kYW1uM2ZnZnI2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSz0R4vZIKMJWg9oko/giphy.gif" alt="Coding Enthusiasm" height="200"/>
+    <img src="https://media1.tenor.com/m/w5cBfjbwBakAAAAd/rose-apt.gif" alt="Backend Development" height="200"/>
   </span>
 </p>
 
