@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Kepo+ya+liat-liat+GitHub+orang?+😏&center=true&width=600&height=45&color=61DAFB&vCenter=true&pause=1000"/>
+  <img src="./assets/typing_kepo_transparent.gif" />
 </p>
 
 ---
