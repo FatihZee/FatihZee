@@ -14,9 +14,9 @@
   </span>
 </p>
 
-<p align="center">
-  <img src="./assets/typing_kepo_transparent.gif" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Kepo+ya+liat-liat+GitHub+orang?+%F0%9F%98%8F&center=true&width=600&height=45&color=61DAFB&vCenter=true&pause=1000" />
+</div>
 
 ---
 
