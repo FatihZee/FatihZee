@@ -16,12 +16,15 @@
 
 ### 👨‍💻 About Me
 
-I am a former Backend Developer at the ESD Laboratory, specializing in API development, database management, and backend integration. With certifications from Dicoding Indonesia, Gamelab, and Skilvul, I have successfully completed several backend projects and collaborated with cross-functional teams to deliver efficient solutions. Currently, I am a lab assistant at the EAD Laboratory for the Website Application Development course and a Web Developer at GDGoC Telkom University Study Group. I am now seeking new opportunities as a Backend Developer, open to roles in any organization where I can leverage my expertise and passion for continuous learning, particularly in areas like Web3 Development, IT consulting, and AI Engineering, to make a positive impact.
+> I'm an Information Systems undergraduate at Telkom University with hands-on experience in backend and full-stack development through academic projects, industry collaborations, and research initiatives. Currently working as a Data Analyst at PT Kereta Api Indonesia, I support data-driven decision-making through analysis, visualization, and system integration. I've held key roles at the ESD Laboratory, CeLOE, and GDGoC Study Group, and have contributed to AI-based system development at the Center of Excellence for Smart Transportation & Robotics. My core competencies include building scalable RESTful APIs, managing relational databases, and integrating backend systems with AI technologies. Certified by Dicoding Indonesia, Skilvul, and Gamelab, I’m known for delivering high-quality solutions with adaptability, technical accuracy, and strong collaboration. I'm now open to backend development opportunities in areas such as Web3, IT consulting, and AI engineering, where I can continuously learn and build impactful systems.
 
-- 🌱 I’m currently learning **Backend Development, Go Language, Laravel, Node.js, Express.js, PHP, Databases, etc**
-- 💬 Ask me about **Backend Development**
-- 💪 노력하는 자는 성공한다 - مَنْ جَدَّ وَجَدَ - Siapa yang bersungguh-sungguh, akan **berhasil**.
-- ⚡ Fun fact: **I'm eager to collaborate and constantly driven by a love for all things coding.**
+* 🏢 Currently working as **Data Analyst at PT Kereta Api Indonesia**
+* 🌱 Learning: **Backend Development, Go, Node.js, Laravel, PHP, SQL/NoSQL Databases, Microservices, API Security**
+* 💬 Ask me about: **REST APIs, Database Design, Backend Architecture, and AI Integration**
+* 📜 Certified by: **Dicoding, Skilvul, and Gamelab**
+* 💡 Passionate about building **scalable, intelligent systems** that solve real-world problems
+* 💪 노력하는 자는 성공한다 - مَنْ جَدَّ وَجَدَ - *Siapa yang bersungguh-sungguh, akan berhasil.*
+* ⚡ Fun fact: **Always excited to explore new technologies and build things that matter**
 
 ---
 
