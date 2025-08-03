@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Fatih%20Fikry%20Oktavianto&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Web%20Developer%20and%20AI%20Enthusiast&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I%27m%20Fatih%20Fikry%20Oktavianto&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Backend%20Developer,%20Data%20and%20AI%20Enthusiast&descSize=30&descAlignY=85&section=header" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatihzee&label=Profile%20views&color=61DAFB&style=for-the-badge&labelColor=20232A" alt="fatihzee" />
