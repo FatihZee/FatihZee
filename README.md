@@ -31,6 +31,7 @@
 ### 🔗 Connect with Me
 
 [![CV](https://img.shields.io/badge/CV-fatihfikry.my.id-blueviolet?style=for-the-badge)](https://fatihfikry.my.id/)
+[![Portofolio](https://img.shields.io/badge/Portofolio-portfolio.fatihfikry.my.id-darkgreen?style=for-the-badge)](https://portfolio.fatihfikry.my.id/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatih-fikry-oktavianto)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/trustedby_)
 [![Send me an email](https://img.shields.io/badge/Send%20me%20an%20email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=myemail@fatihfikry.my.id&su=<<Tulis%20subjek%20email%20di%20sini>>&body=Halo%20Fatih%20Fikry%20Oktavianto%2C%0A%0ASaya%20harap%20pesan%20ini%20menemukan%20Anda%20dalam%20keadaan%20baik.%20Saya%20ingin%20menghubungi%20Anda%20terkait%20<<Tulis%20tujuan%20email%20Anda%20di%20sini>>.%0A%0ASilakan%20balas%20email%20ini%20saat%20Anda%20memiliki%20waktu.%20Terima%20kasih%20banyak%20sebelumnya!%0A%0ASalam%20hangat%2C%0A%5BNama%20Anda%5D)
